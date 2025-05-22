@@ -19,8 +19,16 @@ fn main() {
 
   println!("{}", s);*/
 
-    let x = 5;
+    /*let x = 5;
     let y = x;
 
-    println!("x is {}, y is {}", x, y);
+    println!("x is {}, y is {}", x, y);*/
+
+  let mut x = 5;
+  let y = &mut x;
+
+  *y += 1;
+
+  println!("X is : {}", x);
+
 }

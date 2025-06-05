@@ -1,0 +1,9 @@
+C:\Projects\Courses\Rust Course\rust_course\pastebin\target\debug\deps\librocket_sync_db_pools-5052c58e5269948d.rmeta: C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rocket_sync_db_pools-0.1.0\src\lib.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rocket_sync_db_pools-0.1.0\src\poolable.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rocket_sync_db_pools-0.1.0\src\config.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rocket_sync_db_pools-0.1.0\src\error.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rocket_sync_db_pools-0.1.0\src\connection.rs
+
+C:\Projects\Courses\Rust Course\rust_course\pastebin\target\debug\deps\rocket_sync_db_pools-5052c58e5269948d.d: C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rocket_sync_db_pools-0.1.0\src\lib.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rocket_sync_db_pools-0.1.0\src\poolable.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rocket_sync_db_pools-0.1.0\src\config.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rocket_sync_db_pools-0.1.0\src\error.rs C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rocket_sync_db_pools-0.1.0\src\connection.rs
+
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rocket_sync_db_pools-0.1.0\src\lib.rs:
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rocket_sync_db_pools-0.1.0\src\poolable.rs:
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rocket_sync_db_pools-0.1.0\src\config.rs:
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rocket_sync_db_pools-0.1.0\src\error.rs:
+C:\Users\Ahmed\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\rocket_sync_db_pools-0.1.0\src\connection.rs:

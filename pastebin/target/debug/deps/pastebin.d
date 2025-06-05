@@ -1,0 +1,5 @@
+C:\Projects\Courses\Rust Course\rust_course\pastebin\target\debug\deps\pastebin.exe: src\main.rs
+
+C:\Projects\Courses\Rust Course\rust_course\pastebin\target\debug\deps\pastebin.d: src\main.rs
+
+src\main.rs:

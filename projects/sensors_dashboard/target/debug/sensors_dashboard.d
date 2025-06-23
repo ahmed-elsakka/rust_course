@@ -1,1 +1,0 @@
-C:\Projects\Rust\rust_course\projects\sensors_dashboard\target\debug\sensors_dashboard.exe: C:\Projects\Rust\rust_course\projects\sensors_dashboard\src\main.rs C:\Projects\Rust\rust_course\projects\sensors_dashboard\src\sensor.rs

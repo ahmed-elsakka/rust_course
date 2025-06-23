@@ -1,1 +1,0 @@
-C:\Projects\Courses\Rust\ Course\rust_course\pastebin\target\debug\pastebin.exe: C:\Projects\Courses\Rust\ Course\rust_course\pastebin\migrations\0001_create_pastes.sql C:\Projects\Courses\Rust\ Course\rust_course\pastebin\src\main.rs

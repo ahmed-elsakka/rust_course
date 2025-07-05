@@ -1,0 +1,7 @@
+[package]
+name = "using_math_utils"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+math_utils_aelsakka = "0.1.0"

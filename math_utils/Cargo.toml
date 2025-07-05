@@ -1,6 +1,9 @@
 [package]
-name = "math_utils"
+name = "math_utils_aelsakka"
 version = "0.1.0"
 edition = "2024"
+description = "A simple math utility library."
+license = "MIT"
+readme = "README.md"
 
 [dependencies]
